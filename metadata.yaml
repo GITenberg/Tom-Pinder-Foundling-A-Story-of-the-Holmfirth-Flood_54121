@@ -1,5 +1,8 @@
 _repo: Tom-Pinder-Foundling-A-Story-of-the-Holmfirth-Flood_54121
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54121-h/images/cover.jpg
 creator:
   author:
     agent_name: Sykes, D. F. E.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '47627'
     url: http://www.gutenberg.org/2009/agents/47627
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54121#Tom-Pinder-Foundling-A-Story-of-the-Holmfirth-Flood
 gutenberg_issued: '2017-02-06'
 gutenberg_type: Text
 identifiers:
