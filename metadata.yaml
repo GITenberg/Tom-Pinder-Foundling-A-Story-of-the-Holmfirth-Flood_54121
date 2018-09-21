@@ -1,0 +1,28 @@
+_repo: Tom-Pinder-Foundling-A-Story-of-the-Holmfirth-Flood_54121
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sykes, D. F. E.
+    alias: Sykes, Daniel Frederick Edward
+    birthdate: 1856
+    deathdate: 1920
+    gutenberg_agent_id: '47627'
+    url: http://www.gutenberg.org/2009/agents/47627
+description: ''
+gutenberg_issued: '2017-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54121'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Floods -- Fiction'
+- !lcsh 'Foundlings -- Fiction'
+- !lcsh 'Yorkshire (England) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Love stories'
+- GITenberg
+title: 'Tom Pinder, Foundling: A Story of the Holmfirth Flood'
+url: http://www.gutenberg.org/ebooks/54121
